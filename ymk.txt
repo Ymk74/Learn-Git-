@@ -1,0 +1,21 @@
+1
+2- project amazon
+3   -ahmed : products :pc
+4   -ali   : payment  :pc
+5  -hassan: dashbord :pc
+6   -mahmoud: review  :pc
+7
+8------------------------------------------------------------------------------
+9   -merge
+10   -author
+11   -issue tracking
+12   -version
+13---------------------------------------------------------------------------------
+14
+15   -version control system $ -----> linux -->liuns -->git
+16   -6command
+17   
+18
+19   -giit start               gin init
+20   -track file               git add file_name
+21   -save backup              git commit 
